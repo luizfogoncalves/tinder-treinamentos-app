@@ -1,0 +1,4 @@
+export default {
+    HANDLECOURSE: 'HANDLECOURSE',
+    ADDCOURSE: 'ADDCOURSE'
+}
